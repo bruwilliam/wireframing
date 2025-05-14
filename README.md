@@ -73,3 +73,28 @@ The type of fidelity in the link is a high fidelity wireframe.
 
 ## Benefits of wireframes to a software developer
 Wireframing is a critical step in the software development lifecycle (SDLC) that provides clarity, reduces risks, and streamlines collaboration. Here’s why it’s invaluable from a developer’s perspective:
+
+## Real-World Scenario: Wireframing Uncovers Usability Issues in a Banking App
+**The Challenge**
+A fintech startup was developing a mobile banking app with a feature for quick fund transfers. The initial concept (based on stakeholder ideas) had:
+- A single-screen transfer flow with all fields (amount, recipient, memo) crammed together.
+- A hidden "Review" button (users had to scroll to see it).
+- No visual confirmation before submitting transactions.
+
+**How Wireframing Helped**
+During the low-fidelity wireframing phase, the UX team created sketches and tested them with real users. Key issues identified:
+- Problem: Users missed the "Review" button, leading to accidental submissions.
+- Fix: Moved the button above the fold and added a confirmation modal.
+- Problem: Recipient selection was buried in a dropdown.
+- Fix: Added a searchable contact list with recent payees at the top.
+- Problem: No progress indicator for multi-step transfers.
+- Fix: Added a 3-step progress bar (Amount → Recipient → Confirm).
+
+**Impact on the Final Product**
+- Development Savings: Catching these issues in wireframes avoided costly post-launch fixes (estimated 40 hours of dev time saved).
+- User Adoption: Post-launch analytics showed a 30% drop in transfer errors compared to the original design.
+- Stakeholder Confidence: Wireframes helped non-technical teams (legal, marketing) visualize compliance and branding needs early.
+
+
+
+
