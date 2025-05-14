@@ -43,3 +43,31 @@
 - Radio buttons for filters in an e-commerce app.
 - Hover effects or clickable areas (often noted with annotations).
 
+## Types of wireframes
+1. **Low fidelity wireframes:**
+  Are simple, rough sketches of a digital product’s layout, focusing on structure and functionality without visual details. They’re used early in the design process to quickly explore ideas and gather feedback.
+  **When to Use Low-Fidelity Wireframes**
+- Early Ideation: Brainstorm layouts with stakeholders or team members.
+- User Flow Mapping: Outline steps in a process (e.g., checkout flow).
+- Quick Feedback: Validate concepts before investing time in detailed designs.
+
+**Example:**
+- A hand-drawn wireframe for a mobile app login screen might include:
+- A header ("Login")
+- Two blank boxes (username/password fields)
+- A rectangle labeled "Submit"
+- A link placeholder ("Forgot Password?")
+
+2. **High fidelity wireframes**
+High-fidelity (hi-fi) wireframes are detailed, polished representations of a digital product’s interface, bridging the gap between early sketches and final prototypes. They incorporate precise layouts, real content, and sometimes basic interactivity to closely mimic the final design. When to Use High-Fidelity Wireframes
+- User Testing: Conduct usability tests with near-realistic UI.
+- Stakeholder Reviews: Showcase a polished vision for approval.
+- Developer Handoff: Provide precise specs for implementation.
+
+**Example:**
+- A hi-fi wireframe for an e-commerce product page might include:
+- Actual product images and descriptive text.
+- Styled "Add to Cart" buttons with hover states.
+Accurate spacing between elements (e.g., 16px padding).
+The type of fidelity in the link is a high fidelity wireframe.
+
