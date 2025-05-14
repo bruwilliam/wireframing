@@ -71,3 +71,5 @@ High-fidelity (hi-fi) wireframes are detailed, polished representations of a dig
 Accurate spacing between elements (e.g., 16px padding).
 The type of fidelity in the link is a high fidelity wireframe.
 
+## Benefits of wireframes to a software developer
+Wireframing is a critical step in the software development lifecycle (SDLC) that provides clarity, reduces risks, and streamlines collaboration. Here’s why it’s invaluable from a developer’s perspective:
