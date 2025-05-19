@@ -43,7 +43,7 @@
 - Radio buttons for filters in an e-commerce app.
 - Hover effects or clickable areas (often noted with annotations).
 
-## Types of wireframes
+## Types of Wireframes
 1. **Low fidelity wireframes:**
   Are simple, rough sketches of a digital product’s layout, focusing on structure and functionality without visual details. They’re used early in the design process to quickly explore ideas and gather feedback.
   **When to Use Low-Fidelity Wireframes**
